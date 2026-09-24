@@ -1,7 +1,3 @@
-I study how computational systems shape public knowledge and collective
-decision-making. My work combines **open data**, reproducible analysis, and
-human-centered evaluation.
+I am an engineering student interested in digital ASIC design, advanced memory systems, and agentic AI for semiconductor design.
 
-This site is generic demonstration content for Astro Scholar. Replace the
-profile, publications, projects, and writing with your own work through the
-Markdown-first customization surfaces documented in the repository.
+Currently, I am working toward my first silicon tape-out, gaining hands-on experience with open-source digital ASIC design toolchains, from RTL design and verification to synthesis and physical implementation. My goal is to bring these designs to functional silicon while deepening my understanding of the complete chip development process.
