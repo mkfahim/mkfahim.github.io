@@ -84,12 +84,12 @@ export const PROFILE: ProfileConfig = {
 
   // Short professional tagline shown below your name.
   tagline: "Digital ASIC Design & Verification",
-  
+
   email: "shahariar2103022@stud.kuet.ac.bd",
 
   // Your present location.
   location: "Dhaka, Bangladesh",
-  
+
   pronouns: "he/him",
   links: {
     github: "https://github.com/mkfahim",
@@ -99,10 +99,9 @@ export const PROFILE: ProfileConfig = {
   linksPlacement: {
     header: ["email", "github", "website"],
     about: false,
-    
+
     // Set to true to also show profile links in the footer.
     footer: false,
-    
   },
 }
 
@@ -126,7 +125,7 @@ export const PUB_CONFIG: PublicationConfig = {
   highlightAuthor: {
     firstName: "M K Fahim",
     lastName: "Shahariar",
-    
+
     // Add alternative name formats here if your publications use a different spelling.
     // Example: ["M. K. Fahim Shahariar", "Fahim Shahariar"]
     aliases: [],
