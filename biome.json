@@ -7,7 +7,7 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": ["**", "!**/*.svg", "!googlefebd731028a80beb.html"]
+    "includes": ["**", "!**/*.svg", "!public/googlefebd731028a80beb.html"]
   },
   "html": {
     "experimentalFullSupportEnabled": true,
