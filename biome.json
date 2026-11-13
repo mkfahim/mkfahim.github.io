@@ -6,11 +6,11 @@
     "useIgnoreFile": true
   },
   "files": {
-  "ignoreUnknown": true,
-  "includes": [
-    "**",
-    "!**/*.svg",
-    "!googlefebd731028a80beb.html"
+    "ignoreUnknown": true,
+    "includes": [
+      "**",
+      "!**/*.svg",
+      "!googlefebd731028a80beb.html"
     ]
   },
   "html": {
