@@ -1,3 +1,4 @@
+
 {
   "$schema": "https://biomejs.dev/schemas/2.5.1/schema.json",
   "vcs": {
@@ -7,11 +8,7 @@
   },
   "files": {
     "ignoreUnknown": true,
-    "includes": [
-      "**",
-      "!**/*.svg",
-      "!googlefebd731028a80beb.html"
-    ]
+    "includes": ["**", "!**/*.svg", "!googlefebd731028a80beb.html"]
   },
   "html": {
     "experimentalFullSupportEnabled": true,
